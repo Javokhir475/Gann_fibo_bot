@@ -1,1 +1,1 @@
-# Gann_fibo_bot
+# Gann-fibo-bot
